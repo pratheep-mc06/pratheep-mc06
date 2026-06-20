@@ -23,30 +23,43 @@ Building projects, solving problems and continuously learning.
 
 # 🛠 Tech Stack
 
-### Languages
-- Python
-- C
-- HTML
-- CSS
+## 🛠 Tools & Technologies
 
-### Tools & Technologies
-- Git
-- GitHub
-- Linux
-- VS Code
+### Programming Languages
+🐍 Python • C • HTML • CSS
 
-### Areas of Interest
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Model Context Protocol (MCP)
-- Cyber Security
-- Threat & Vulnerability Management
-- Information Security
-- Operating Systems
+### Development & Workflow
+⚡ Git • GitHub • VS Code • Linux
+🚀 Cursor Workflow
+🌌 Antigravity
+💜 Lovable
+🤝 Team Collaboration
+📝 Technical Documentation
+🏗️ Project Prototyping
 
----
+### AI & Modern Development
+🤖 Large Language Models (LLMs)
+🧠 Prompt Engineering
+🎨 Vibe Coding
+🚀 AI-Assisted Development
+🔍 Retrieval-Augmented Generation (RAG)
+🔗 Model Context Protocol (MCP)
 
+### Design & Productivity
+🎨 Figma
+🖌️ Canva
+🤖 Google AI Studio
+
+### Cyber Security
+🔐 Information Security
+🛡️ Threat & Vulnerability Management
+🔒 Cyber Security Fundamentals
+
+### Computer Science Foundations
+📚 Data Structures
+💡 Problem Solving
+💻 Operating Systems
+🌐 Computer Networks
 # 📌 Featured Projects
 
 ## 🔹 Substro
