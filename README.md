@@ -157,11 +157,11 @@ Skills:
 
 ## 🤝 Connect
 
-💼 [Pratheeswaran M](https://www.linkedin.com/in/pratheeswaran-m-596a91383/)
+💼 LinkedIn: [Pratheeswaran M](https://www.linkedin.com/in/pratheeswaran-m-596a91383/)
 
-🌐 Portfolio Website *(Coming Soon)*
+🌐 Portfolio Website: *(Coming Soon)*
 
-📧 Email pratheepmani01@gmail.com
+📧 Email: pratheepmani01@gmail.com
 
 ```python
 class Pratheep:
